@@ -1,1 +1,2 @@
-# HOKMAKEUP-clone -->>  https://alokkumar-dev.github.io/HOKMAKEUP-SITE/
+# HOKMAKEUP-clone 
+link -->> https://alokkumar-dev.github.io/HOKMAKEUP-clone/
